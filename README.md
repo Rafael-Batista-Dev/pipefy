@@ -2,7 +2,7 @@
 
 > Este projeto, tem como objetivo, apresentar a estrutura uma estrutura e funcionade semelhantes à do famoso pipefy, consumindo uma api disponibilizada pelo o Diego da Rocketseat.
 
-![Imagens](https://github.com/Rafael-Batista-Dev/portfolio/blob/master/public/pipefy.gif)
+![Imagens](https://github.com/Rafael-Batista-Dev/portfolio/blob/master/public/pipefy.gif?w=512)
 
 ## Instalação
 
