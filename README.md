@@ -1,8 +1,8 @@
 # DevClass
 
-> Este projeto, tem como objetivo, apresentar a estrutura uma estrutura e funcionade semelhantes à do famoso pipefy.
+> Este projeto, tem como objetivo, apresentar a estrutura uma estrutura e funcionade semelhantes à do famoso pipefy, consumindo uma api disponibilizada pelo o Diego da Rocketseat.
 
-![Imagens](https://github.com/Rafael-Batista-Dev/portfolio/blob/master/public/react.png)
+![Imagens](https://github.com/Rafael-Batista-Dev/portfolio/blob/master/public/pipefy.gif)
 
 ## Instalação
 
