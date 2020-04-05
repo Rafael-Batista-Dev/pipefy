@@ -1,4 +1,4 @@
-# DevClass
+# Pipefy Clone
 
 > Este projeto, tem como objetivo, apresentar a estrutura uma estrutura e funcionade semelhantes à do famoso pipefy, consumindo uma api disponibilizada pelo o Diego da Rocketseat.
 
